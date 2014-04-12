@@ -1,4 +1,5 @@
 print("Given a list of unsorted numbers, find the numbers that have the smallest absolute difference between them.")
+
 print("If there are multiple pairs, find them all, and output them.\n")
 
 numbers = input("Enter a list of numbers, separated by spaces: ")
