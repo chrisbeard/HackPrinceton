@@ -10,7 +10,7 @@ length = len(num_list)
 if length == 0:
     print("No pairs possible.")
 elif length == 1:
-	min_diff = 0
+    min_diff = 0
 else:
 	min_diff = num_list[1] - num_list[0] 
 	pair_list = [num_list[0], num_list[1]]
