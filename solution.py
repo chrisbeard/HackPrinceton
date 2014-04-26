@@ -13,7 +13,7 @@ if length == 0:
 elif length == 1:
     min_diff = 0
 else:
-	min_diff = num_list[1] - num_list[0] 
+    min_diff = num_list[1] - num_list[0] 
 	pair_list = [num_list[0], num_list[1]]
 	for i in range(2,length):
 		if (abs(num_list[i] - num_list[i-1]) < min_diff):
