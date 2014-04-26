@@ -25,3 +25,5 @@ else:
 			pair_list.append(num_list[i-1])
 			pair_list.append(num_list[i])
 	print(pair_list)
+    
+    hi
